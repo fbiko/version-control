@@ -1,0 +1,6 @@
+Milk,
+Flour,
+Banana,
+Sambosa,
+Meat,
+Chicken
