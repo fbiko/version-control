@@ -1,2 +1,2 @@
-I discovered Git, practiced a few commands, and now my code is neatly organized, versioned, and shared.
+This is how it started. I discovered Git, practiced a few commands, and now my code is neatly organized, versioned, and shared.
 Learning Git is fun and makes sharing easier.
