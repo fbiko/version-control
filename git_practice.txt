@@ -1,2 +1,2 @@
 Hello World! This is the file for practicing. 
-Greetings from GitHub
+Greetings from my computer
