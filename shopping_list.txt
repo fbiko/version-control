@@ -3,4 +3,5 @@ Flour,
 Banana,
 Sambosa,
 Meat,
-Chicken
+Chicken,
+Rice
